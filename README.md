@@ -1,2 +1,8 @@
 # Cherrywm
-Cherrywm my very simple build with no errors and bugs ;)
+
+* clone it
+
+```bash
+$ https://github.com/Be1acProgrammer/prowm.git
+```
+
